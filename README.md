@@ -8,6 +8,7 @@ This is my first task <a href="">#Task1</a> of internship at Sparks Foundation G
 
 - HTML
 - CSS
+- JavaScript
 - Bootstrap
 
 # API
